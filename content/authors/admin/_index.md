@@ -5,9 +5,10 @@ avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bayesian Nonparametrics
+  - Machine Learning
+  - causal Inference
+  - Clustered Data
 social:
   - icon: envelope
     icon_pack: fas
