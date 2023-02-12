@@ -51,5 +51,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Mingya is currently a Phd. student in Quantitative Methods at University of Wisconsin-Madison, advised by [Dr. David Kaplan](https://edpsych.education.wisc.edu/fac-staff/kaplan-david/#:~:text=David%20Kaplan%20is%20the%20Patricia,Center%20for%20Demography%20and%20Ecology.). She also has an MS degree in the department of Statistic, working with [Dr. Sameer Deshpande](https://skdeshpande91.github.io/). Prior to that, she received her MS in Quantitative Methodology, Measurement and Evaluation (QUERIES) under the supervision of [Dr. Carolyn Anderson](https://cja.education.illinois.edu/). 
+Mingya is currently a Phd. student in Quantitative Methods at University of Wisconsin-Madison, advised by [Dr. David Kaplan](https://edpsych.education.wisc.edu/fac-staff/kaplan-david/#:~:text=David%20Kaplan%20is%20the%20Patricia,Center%20for%20Demography%20and%20Ecology.). She also has an MS degree in the department of Statistic, working with [Dr. Sameer Deshpande](https://skdeshpande91.github.io/). Prior to that, she received her MS in Quantitative Methodology, Measurement, and Evaluation (QUERIES) under the supervision of [Dr. Carolyn Anderson](https://cja.education.illinois.edu/) at University of Illinois Urbana Champaign.
 {style="text-align: justify;"}
