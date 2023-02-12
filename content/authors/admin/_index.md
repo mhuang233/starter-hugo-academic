@@ -1,6 +1,6 @@
 ---
 title: MYH
-role: Professor of Artificial Intelligence
+role: Phd. student in Quantitative Methods
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
