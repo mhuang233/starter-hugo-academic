@@ -14,19 +14,19 @@ sections:
       text:
   - block: features
     content:
-      title: Skills
+      title: Research Overview
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
+        - name: Nonparametric Bayesian
+          # description: 90%
+          icon: circle-nodes
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: Machine Learning
+          # description: 100%
+          icon: cubes
+          icon_pack: fas
+        - name: Causal Inference
+          # description: 10%
+          icon: site-map
           icon_pack: fas
   - block: experience
     content:
