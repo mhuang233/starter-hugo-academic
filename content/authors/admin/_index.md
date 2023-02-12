@@ -1,6 +1,7 @@
 ---
 title: MYH
 role: Phd. student in Quantitative Methods
+avatar_filename: self_sq.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
