@@ -26,7 +26,7 @@ sections:
           icon_pack: fas
         - name: Causal Inference
           # description: 10%
-          icon: site-map
+          icon: sitemap
           icon_pack: fas
   - block: experience
     content:
