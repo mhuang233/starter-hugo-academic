@@ -21,9 +21,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/mhuang233
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
